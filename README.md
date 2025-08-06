@@ -81,6 +81,9 @@
 ## 📫 Contact
 
 <div align="center">
+  <a href="https://bridge-vert.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.notion.so/2-Development-Front-end-Back-end-DB-09740ff308514e40aeee54b634ad1b74">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio" />
   </a>
